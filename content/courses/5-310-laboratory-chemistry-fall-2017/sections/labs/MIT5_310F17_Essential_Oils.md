@@ -7,6 +7,5 @@ file_location: /coursemedia/5-310-laboratory-chemistry-fall-2017/126a4a01a289366
 file_type: application/pdf
 layout: pdf
 title: Essential Oils Lab_F_17
-type: course
 uid: 126a4a01-a289-366d-0375-6c61f3b1fc36
 ---

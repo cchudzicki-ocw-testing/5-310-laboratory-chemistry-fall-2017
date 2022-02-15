@@ -8,7 +8,6 @@ menu:
     name: Labs
     weight: 50
 title: Labs
-type: course
 uid: 9af42e2b-e92f-d832-a520-8610a817e069
 ---
 

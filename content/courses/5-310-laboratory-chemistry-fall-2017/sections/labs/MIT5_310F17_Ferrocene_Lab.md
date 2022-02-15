@@ -7,6 +7,5 @@ file_location: /coursemedia/5-310-laboratory-chemistry-fall-2017/25fdd392b67d071
 file_type: application/pdf
 layout: pdf
 title: MIT5_310F17_Ferrocene_Lab.pdf
-type: course
 uid: 25fdd392-b67d-0718-90fa-ae808fb471c3
 ---
